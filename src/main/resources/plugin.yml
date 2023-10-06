@@ -1,0 +1,5 @@
+name: PlugGayDummy
+version: '1.0-SNAPSHOT'
+main: vietnam.tansenpai.dummypluggay.main.DummyPlugGay
+api-version: 1.13
+authors: [ TanSenpai ]
